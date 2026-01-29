@@ -57,11 +57,13 @@ The model performs well for basic prediction on weather datasets.
 - Streamlit (for web app)
 
 # 📂 Project Structure
+```
 ├── dataset.csv
 ├── app.py
 ├── model.pkl
 ├── requirements.txt
 ├── README.md
+```
 
 🚀 How to Run the Project Locally
 🔧 Step 1: Install Dependencies
