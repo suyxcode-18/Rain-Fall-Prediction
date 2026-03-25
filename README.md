@@ -8,6 +8,7 @@
 - Since the output is binary, we use Logistic Regression, which is ideal for classification problems.
 - The model is trained on important weather features such as:
 
+
 - 🌡️ Temperature (Max & Min)
 
 - 💧 Precipitation
